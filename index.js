@@ -20,7 +20,7 @@ const marker = L.marker([0,0] ,{icon: myIcon}).addTo(map)
 
 let ipInput = document.getElementById('ipInput');
 let send = document.getElementById('send');
-const api_key = 'at_tUakp5N6aY0wpTauakIS5I7ewNV3l'
+const api_key = 'at_mqeV9d5GKHy77J7TxUkL44o1UiruL'
 let info = document.querySelector('.map')
 let ipAddress = document.getElementById('ipInput').value
 let firstTime = true ;
